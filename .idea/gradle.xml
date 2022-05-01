@@ -10,6 +10,11 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Topics/Data types/Legitimate literals" />
+            <option value="$PROJECT_DIR$/Topics/Data types/Right type" />
+            <option value="$PROJECT_DIR$/Topics/Data types/Statements" />
+            <option value="$PROJECT_DIR$/Topics/Data types/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Data types/Think as a compiler" />
             <option value="$PROJECT_DIR$/Topics/Overview of the basic program/Find a keyword" />
             <option value="$PROJECT_DIR$/Topics/Overview of the basic program/Multiple statements" />
             <option value="$PROJECT_DIR$/Topics/Overview of the basic program/Name of an entry point" />
